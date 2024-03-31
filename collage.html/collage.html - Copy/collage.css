@@ -1,0 +1,345 @@
+header{
+    text-align: center;
+    
+    
+}
+#menu{
+
+    text-align: centers;
+}
+
+table{
+   width: 100%;
+   height: 50px;
+   background-color: rgb(187, 7, 7);
+  font-family: 'Times New Roman', Times, serif;
+  
+font-display: white;
+position: relative;
+
+text-align: center;
+border-collapse: collapse;
+    color: white;
+    font-weight:bold ;
+    font: 1em sans-serif;
+}
+a{
+    text-decoration:none;
+    
+
+    color: #fff;
+
+}
+a:hover{
+    background-color: #202521;
+}
+
+
+
+/* #main{
+    
+} */
+div.left {
+    
+    background-color: rgb(186, 184, 183);
+    color: #202521;
+    float: left;
+    width: 29%;
+    height: 65px;
+    text-align: center;
+    margin-top: -4px;
+    font: 1em sans-serif;
+    line-height: 2;
+
+
+}   
+/* }
+.notic{
+    height: 187px;
+} */
+
+
+/* 
+}
+.sahani{
+    
+} */
+
+
+div.middle{
+background-color: #1c4d7b;
+width: 40%;
+height: 550px;
+float: left;
+text-align: center;
+margin-top: -4px;
+
+
+}
+.gallery{
+    margin-top: 60px;
+}
+button{
+font-size: large;
+background-color: red;
+border-radius: 2ch;
+padding: 1%;
+margin-top: 50px;
+font: 1em sans-serif;
+}
+
+
+div.right{
+background-color: #1c4d7b;
+width: 31%;
+height: 550px;
+float: left;
+margin-top: -4px;
+text-align: center;
+font: 1em sans-serif;
+
+}
+video{
+    margin-top: 60px;
+    width:330px;
+    height:150px;
+}
+.events{
+    text-align: center;
+
+
+}
+.drive{
+    text-align: left;
+    font: 1em sans-serif;
+}
+div.abhi{
+    /* width: 30%;
+    height: 500px; */
+    
+    color: #fff;
+    background-color: #fff;
+    width: 20%;
+    text-align:center;
+     /* top: 10px; */
+    margin-top: -25%;
+    border: #f56161 solid thin;
+    background-color: hsl(0, 93%, 49%);
+    font: 1em sans-serif;
+
+
+} 
+h3{
+
+font-display: #f56161;
+    text-align: center;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font: 1em sans-serif;
+}
+
+div.abhishek{
+    margin-left: 40%;
+    text-align: center;
+    color: red;
+    font: 1em sans-serif;
+    
+    
+    
+}
+div.abhishek p{
+    text-align: start;
+    margin-top: 12%;
+    color: #1c4d7b;
+    line-height: 30px;
+    font-family: Arial;
+    font: 1em sans-serif;
+
+}
+.rahul{
+    text-align: center;
+    background-color: #1c4d7b;
+    color: #fff;
+    height: 50px;
+    width: 800px;
+    margin-left: 26.5%;
+    font: 1em sans-serif;
+    display: flex;
+
+}
+ footer{
+    margin-left: 1%;
+    background-color: #1c4d7b;
+    color: hsl(120, 81%, 40%);
+    height: 300px;
+    width: 1265px;
+    
+    left: 20%;
+
+    
+
+}
+.contact {
+    display: inline-flex;
+    margin-left: -auto;
+   
+    margin-top: -19px;
+    background-color: #202521;
+    height: 400px;
+    width: 1260px;
+    
+}
+Address{
+    text-align: 60px;
+    margin: 60px;
+    margin-left: 10%;
+    margin-top: -23px;
+    font: 1em sans-serif;
+
+}
+.photos{
+    margin-left: 36%;
+    margin-top: -6%;
+    
+}
+.map{
+    margin-left: 60%;
+    margin-top: -12%;
+   
+
+}
+.ranjan{
+    margin-top: -2%;
+    margin-left: 10%;
+    color: #fff;
+    font: 1em sans-serif;
+    font-size: 12px;
+   
+}
+.course{
+    text-align: center;
+    margin-top: 10%;
+
+
+
+}
+.subject{
+    text-align: center;
+    font:1em sans-serif;
+    margin-top: 10%;
+
+}
+.kumar{
+    text-align: center;
+    margin-top: 10%;
+
+/* }
+table,tr td{
+    background-color: #651818;
+    border: 2px solid black ; */
+
+}
+.abhis{
+    text-align: center;
+    font:1em sans-serif;
+    margin-top: 20%;
+
+}
+.fee{
+    text-align: center;
+    font:1em sans-serif;
+    margin-top: 10%;
+
+}
+.Exam{
+    text-align: center;
+    font:1em sans-serif;
+    margin-top: 10%;
+}
+.results{
+    text-align: center;
+    font:1em sans-serif;
+    margin-top: 10%;
+}
+.gallery{
+    
+    margin: 40px;
+    border: #202521;
+    float: left;
+  
+    /* width: 400px; */
+}
+
+#gallery img{
+    width: 230px;
+    height: 280px;
+    
+
+}
+.desc{
+    /* text-align: center; */
+    padding: 3px;
+}
+.Teachingstaff{
+    text-align: center;
+}
+
+.article{
+    font:1em sans-serif;
+   
+}
+.abhishekk {
+    margin-left: 63%;
+    margin-top: 10%;
+}
+.article {
+    margin-top:-27%;
+    margin-left: 8%;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+      
+}
+.Placementstaff{
+    text-align: right;
+        /* margin-left: 63%; */
+    margin-top: -22%;
+    margin-bottom: 10%;
+    margin-right: 10%;
+}
+.Placement{
+    margin-left: 10%;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    
+    
+}
+.add{
+    height: 350px;
+    width: 100%;
+    background-color: #eae6e6;
+}
+.feedback{
+   margin-left: 40%;
+    height:250px;
+    width: 100%;
+    background-color: #fff;
+    font-size: xx-large
+
+    
+}
+.add h2{
+    margin-left: 10%;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.add p{
+    margin-left: 10%;
+   
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
